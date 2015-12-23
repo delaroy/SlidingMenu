@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SlidingMenu</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string-array name="titles">
+        <item>Facebook</item>
+        <item>Google-Plus</item>
+        <item>TutorialsBuzz</item>
+    </string-array>
+
+    <array name="icons">
+        <item>@drawable/fb</item>
+        <item>@drawable/gplus</item>
+        <item>@drawable/tb</item>
+    </array>
+
+</resources>
